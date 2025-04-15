@@ -24,3 +24,6 @@ Up to 8 channels can be addressed with ***KMtronic_emulator_8.ino***
 
 See source code for more details of my protocol implementation.
 
+![image](https://github.com/user-attachments/assets/2e424b96-ad64-40b4-9d2f-38bddf3a9368)
+
+
